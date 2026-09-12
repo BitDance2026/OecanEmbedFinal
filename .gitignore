@@ -1,0 +1,7 @@
+data/raw/
+data/interim/
+data/processed/
+*.zarr
+__pycache__/
+*.pycresults/oceanembed_compact_reconstruction.nc 
+results/oceanembed_compact_reconstruction.nc

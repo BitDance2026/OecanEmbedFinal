@@ -1,0 +1,10 @@
+copernicusmarine>=2.0.0
+cdsapi>=0.7.0
+xarray>=2024.1.0
+netCDF4>=1.6.5
+zarr>=2.16.0
+dask>=2024.1.0
+numpy>=1.26
+torch>=2.2
+scikit-learn>=1.4
+matplotlib>=3.8
